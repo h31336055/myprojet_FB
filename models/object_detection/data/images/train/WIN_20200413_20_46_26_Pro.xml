@@ -1,0 +1,50 @@
+<annotation>
+	<folder>bread</folder>
+	<filename>WIN_20200413_20_46_26_Pro.jpg</filename>
+	<path>D:\b10613110\bread\WIN_20200413_20_46_26_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mango tart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>289</ymin>
+			<xmax>506</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fruit tart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>241</ymin>
+			<xmax>1015</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>548</xmin>
+			<ymin>98</ymin>
+			<xmax>733</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

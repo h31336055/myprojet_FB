@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Fruit</folder>
+	<filename>WIN_20200413_19_44_47_Pro.jpg</filename>
+	<path>D:\Fruit\WIN_20200413_19_44_47_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>93</ymin>
+			<xmax>707</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>147</ymin>
+			<xmax>979</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

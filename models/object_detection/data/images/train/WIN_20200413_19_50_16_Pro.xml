@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Fruit</folder>
+	<filename>WIN_20200413_19_50_16_Pro.jpg</filename>
+	<path>D:\Fruit\WIN_20200413_19_50_16_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mangosteen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>742</xmin>
+			<ymin>295</ymin>
+			<xmax>949</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>122</ymin>
+			<xmax>478</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Fruit</folder>
+	<filename>WIN_20200325_20_38_03_Pro.jpg</filename>
+	<path>D:\Fruit\WIN_20200325_20_38_03_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>166</ymin>
+			<xmax>464</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>743</xmin>
+			<ymin>335</ymin>
+			<xmax>1009</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>340</ymin>
+			<xmax>438</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>
