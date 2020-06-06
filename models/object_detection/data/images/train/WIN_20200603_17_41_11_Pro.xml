@@ -1,0 +1,38 @@
+<annotation>
+	<folder>兩個</folder>
+	<filename>WIN_20200603_17_41_11_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\兩個\WIN_20200603_17_41_11_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>294</ymin>
+			<xmax>548</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>711</xmin>
+			<ymin>126</ymin>
+			<xmax>935</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

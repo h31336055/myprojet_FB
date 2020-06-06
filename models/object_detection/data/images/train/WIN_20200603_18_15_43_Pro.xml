@@ -1,0 +1,50 @@
+<annotation>
+	<folder>三個</folder>
+	<filename>WIN_20200603_18_15_43_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\三個\WIN_20200603_18_15_43_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>208</ymin>
+			<xmax>747</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>849</xmin>
+			<ymin>200</ymin>
+			<xmax>1078</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red mango</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>204</ymin>
+			<xmax>382</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

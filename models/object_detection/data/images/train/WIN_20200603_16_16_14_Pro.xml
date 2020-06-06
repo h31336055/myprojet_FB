@@ -1,0 +1,38 @@
+<annotation>
+	<folder>兩個</folder>
+	<filename>WIN_20200603_16_16_14_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\兩個\WIN_20200603_16_16_14_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fruit tower</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>139</ymin>
+			<xmax>507</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>peaches</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>372</ymin>
+			<xmax>925</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>

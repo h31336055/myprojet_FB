@@ -1,0 +1,38 @@
+<annotation>
+	<folder>兩個</folder>
+	<filename>WIN_20200603_17_44_27_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\兩個\WIN_20200603_17_44_27_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hot dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>99</ymin>
+			<xmax>514</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>685</xmin>
+			<ymin>217</ymin>
+			<xmax>899</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
