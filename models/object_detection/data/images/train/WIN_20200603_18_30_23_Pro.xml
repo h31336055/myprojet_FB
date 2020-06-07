@@ -24,18 +24,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>watermelon</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>272</xmin>
-			<ymin>103</ymin>
-			<xmax>666</xmax>
-			<ymax>298</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>red apple</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -45,6 +33,18 @@
 			<ymin>413</ymin>
 			<xmax>475</xmax>
 			<ymax>652</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>102</ymin>
+			<xmax>664</xmax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 </annotation>

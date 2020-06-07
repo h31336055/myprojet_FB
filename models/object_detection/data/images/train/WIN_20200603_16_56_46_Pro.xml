@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>fruit tower</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>705</xmin>
-			<ymin>79</ymin>
-			<xmax>939</xmax>
-			<ymax>311</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>grape</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -33,6 +21,18 @@
 			<ymin>275</ymin>
 			<xmax>663</xmax>
 			<ymax>655</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fruit tart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>703</xmin>
+			<ymin>82</ymin>
+			<xmax>937</xmax>
+			<ymax>313</ymax>
 		</bndbox>
 	</object>
 </annotation>

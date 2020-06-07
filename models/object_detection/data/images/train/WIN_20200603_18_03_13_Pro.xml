@@ -24,14 +24,14 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>papaya</name>
+		<name>papya</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>688</xmin>
+			<xmin>689</xmin>
 			<ymin>86</ymin>
-			<xmax>933</xmax>
+			<xmax>932</xmax>
 			<ymax>390</ymax>
 		</bndbox>
 	</object>

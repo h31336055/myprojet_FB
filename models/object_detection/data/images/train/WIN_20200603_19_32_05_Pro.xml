@@ -36,14 +36,14 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>peaches</name>
+		<name>peach</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>545</xmin>
+			<xmin>543</xmin>
 			<ymin>46</ymin>
-			<xmax>841</xmax>
+			<xmax>838</xmax>
 			<ymax>291</ymax>
 		</bndbox>
 	</object>

@@ -18,20 +18,20 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>447</xmin>
-			<ymin>87</ymin>
+			<ymin>86</ymin>
 			<xmax>634</xmax>
-			<ymax>266</ymax>
+			<ymax>265</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>peaches</name>
+		<name>peach</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>468</xmin>
-			<ymin>380</ymin>
-			<xmax>716</xmax>
+			<ymin>381</ymin>
+			<xmax>719</xmax>
 			<ymax>622</ymax>
 		</bndbox>
 	</object>

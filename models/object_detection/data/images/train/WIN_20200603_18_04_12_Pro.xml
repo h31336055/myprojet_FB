@@ -12,24 +12,24 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>fruit tower</name>
+		<name>fruit tart</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>297</xmin>
-			<ymin>244</ymin>
-			<xmax>531</xmax>
+			<ymin>242</ymin>
+			<xmax>532</xmax>
 			<ymax>486</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>papaya</name>
+		<name>papya</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>706</xmin>
+			<xmin>707</xmin>
 			<ymin>164</ymin>
 			<xmax>902</xmax>
 			<ymax>484</ymax>

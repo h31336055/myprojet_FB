@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>mango tower</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>453</xmin>
-			<ymin>87</ymin>
-			<xmax>687</xmax>
-			<ymax>319</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>papaya</name>
+		<name>papya</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>395</xmin>
-			<ymin>419</ymin>
-			<xmax>720</xmax>
-			<ymax>625</ymax>
+			<ymin>422</ymin>
+			<xmax>719</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mango tart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>85</ymin>
+			<xmax>688</xmax>
+			<ymax>319</ymax>
 		</bndbox>
 	</object>
 </annotation>

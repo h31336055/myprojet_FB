@@ -24,15 +24,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>watermelon</name>
+		<name>water melon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>387</xmin>
-			<ymin>384</ymin>
-			<xmax>788</xmax>
-			<ymax>578</ymax>
+			<xmin>385</xmin>
+			<ymin>385</ymin>
+			<xmax>789</xmax>
+			<ymax>583</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>兩個</folder>
 	<filename>WIN_20200603_14_46_52_Pro.jpg</filename>
-	<path>C:\Users\User\Desktop\0603混拍\兩個\WIN_20200603_14_46_52_Pro.jpg</path>
+	<path>D:\Users\User\Desktop\0603混拍\兩個\WIN_20200603_14_46_52_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>mango tower</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>284</xmin>
-			<ymin>333</ymin>
-			<xmax>520</xmax>
-			<ymax>577</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>red apple</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -33,6 +21,18 @@
 			<ymin>57</ymin>
 			<xmax>879</xmax>
 			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mango tart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>332</ymin>
+			<xmax>522</xmax>
+			<ymax>577</ymax>
 		</bndbox>
 	</object>
 </annotation>
