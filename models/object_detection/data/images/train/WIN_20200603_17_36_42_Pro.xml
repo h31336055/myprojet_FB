@@ -1,0 +1,38 @@
+<annotation>
+	<folder>兩個</folder>
+	<filename>WIN_20200603_17_36_42_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\兩個\WIN_20200603_17_36_42_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>87</ymin>
+			<xmax>657</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red mango</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>394</ymin>
+			<xmax>733</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+</annotation>

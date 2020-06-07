@@ -1,0 +1,38 @@
+<annotation>
+	<folder>兩個</folder>
+	<filename>WIN_20200603_15_18_19_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\兩個\WIN_20200603_15_18_19_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>373</ymin>
+			<xmax>672</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yellow pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>38</ymin>
+			<xmax>678</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

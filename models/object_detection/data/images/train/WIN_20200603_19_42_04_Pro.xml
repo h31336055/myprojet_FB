@@ -1,0 +1,50 @@
+<annotation>
+	<folder>三個</folder>
+	<filename>WIN_20200603_19_42_04_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\三個\WIN_20200603_19_42_04_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mango tart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>390</ymin>
+			<xmax>712</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yellow pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>773</xmin>
+			<ymin>52</ymin>
+			<xmax>995</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>papya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>72</ymin>
+			<xmax>402</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

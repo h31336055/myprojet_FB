@@ -1,0 +1,50 @@
+<annotation>
+	<folder>三個</folder>
+	<filename>WIN_20200603_18_45_53_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\三個\WIN_20200603_18_45_53_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hot dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>92</ymin>
+			<xmax>572</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymin>67</ymin>
+			<xmax>943</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>376</ymin>
+			<xmax>960</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>
