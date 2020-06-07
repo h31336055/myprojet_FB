@@ -1,0 +1,62 @@
+<annotation>
+	<folder>四個</folder>
+	<filename>WIN_20200603_20_02_02_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\四個\WIN_20200603_20_02_02_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fruit tart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>66</ymin>
+			<xmax>525</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>peach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>442</ymin>
+			<xmax>479</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red mango</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>97</ymin>
+			<xmax>1021</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>747</xmin>
+			<ymin>411</ymin>
+			<xmax>966</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+</annotation>

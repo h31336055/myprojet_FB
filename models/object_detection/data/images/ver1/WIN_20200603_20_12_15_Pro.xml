@@ -1,0 +1,62 @@
+<annotation>
+	<folder>四個</folder>
+	<filename>WIN_20200603_20_12_15_Pro.jpg</filename>
+	<path>D:\Users\User\Desktop\0603混拍\四個\WIN_20200603_20_12_15_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twist bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>111</ymin>
+			<xmax>948</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>613</xmin>
+			<ymin>422</ymin>
+			<xmax>1022</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>417</ymin>
+			<xmax>500</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>144</ymin>
+			<xmax>491</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
